@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoint folders
+.ipynb_checkpoints/
+
+# Dataset folders
+MNIST/
+
+# Experiment logs
+experiment_logs/
+
+# Exercises / sheets
+exsheet/
+
+# Tutorials
+tutorials/
+
+# Jupyter notebooks to ignore
+verify_installation.ipynb
+
+# Python dependencies file (if you don’t want to push it)
+requirements.txt
