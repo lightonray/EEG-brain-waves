@@ -21,3 +21,6 @@ verify_installation.ipynb
 
 # Python dependencies file (if you don’t want to push it)
 requirements.txt
+ 
+#venv 
+.aml
